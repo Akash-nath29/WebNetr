@@ -1,6 +1,9 @@
 # WebNetr 👁️
 ### An online browsing helping hand to tackle and manage dark patterns on e-commerce websites.
 
+# Disclaimer 🛑:
+Our Model is still under development and training. So it is not 100% correct. We won't be responsible for any kind of wrong prediction.
+
 # Contributors 👨‍🏫:
 - [Akash Nath](https://github.com/Akash-nath29)
 - [Chirag Nahata](https://github.com/chiragnahata)
