@@ -73,7 +73,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 - [Numpy](https://numpy.org/)
 
 # Screenshots 📸:
-
+![demo](https://github.com/Akash-nath29/WebNetr/assets/100131577/397492f4-338f-499d-aa13-4680fe591c38)
+![demo2](https://github.com/Akash-nath29/WebNetr/assets/100131577/08aebf95-efe6-4ab0-8e47-1f2af869f423)
 
 # Contact 📧:
 - Akash Nath: [LinkedIn](https://www.linkedin.com/in/akash-nath-29/)
