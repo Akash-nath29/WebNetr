@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "TruthEye",
+    "name": "WebNetr",
     "version": "1.0",
-    "description": "Recognize dark patterns in online stores",
+    "description": "WebNetr stops websites from tricking you! ‍♀ It detects hidden manipulation tactics & empowers you to make informed choices online.  Download today & browse freely!",
     "action": {
         "default_popup": "popup.html",
         "default_icon": {
