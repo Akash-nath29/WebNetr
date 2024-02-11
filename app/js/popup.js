@@ -25,5 +25,16 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
   if (request.message === "update_current_count") {
     document.getElementsByClassName("number")[0].textContent = request.count;
   }
+  let dp_count = document.querySelector('.number').textContent;
+  if(dp_count>=150){
+    alert("This website has a high number of dark patterns. Please be cautious.")
+  }
+  if(dp_count<=50){
+    document.querySelector('.number').style.color = "green";
+  }else if(dp_count>50 && dp_count<100){
+    document.querySelector('.number').style.color = "#ffa500";
+  }else {
+    document.querySelector('.number').style.color = "red";
+  }
 });
 

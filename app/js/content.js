@@ -66,6 +66,9 @@ function scrape() {
       } else {
         g.style.color = "green";
       }
+      if(g.value>=100){
+        alert("This website has a high number of dark patterns. Please be cautious.")
+      }
       document.body.appendChild(g);
       sendDarkPatterns(g.value);
     })
